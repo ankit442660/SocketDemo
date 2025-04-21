@@ -50,7 +50,7 @@ const App = () => {
               onchangeinput(e.target.value);
             }}
           />
-          <button type="submit" className="">
+          <button type="submit" className="bg-gray-500 rounded-sm p-2">
             Send
           </button>
         </form>
